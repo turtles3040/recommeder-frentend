@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/recommeder-frentend/static/css/main.190e8e4e.chunk.css",
-    "main.js": "/recommeder-frentend/static/js/main.9b06a699.chunk.js",
-    "main.js.map": "/recommeder-frentend/static/js/main.9b06a699.chunk.js.map",
+    "main.js": "/recommeder-frentend/static/js/main.514e16c2.chunk.js",
+    "main.js.map": "/recommeder-frentend/static/js/main.514e16c2.chunk.js.map",
     "runtime-main.js": "/recommeder-frentend/static/js/runtime-main.dd86974c.js",
     "runtime-main.js.map": "/recommeder-frentend/static/js/runtime-main.dd86974c.js.map",
     "static/js/2.163b2658.chunk.js": "/recommeder-frentend/static/js/2.163b2658.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dd86974c.js",
     "static/js/2.163b2658.chunk.js",
     "static/css/main.190e8e4e.chunk.css",
-    "static/js/main.9b06a699.chunk.js"
+    "static/js/main.514e16c2.chunk.js"
   ]
 }
